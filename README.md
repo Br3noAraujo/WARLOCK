@@ -7,7 +7,7 @@ python warlock.py -h
 ```
 <img src="https://cdn.discordapp.com/attachments/874271657760542720/1044965401378963546/Captura_de_tela_20221123_101721.png">
 
-##Examples
+## Examples
 ``` shell
 python warlock.py
 ```
