@@ -1,5 +1,5 @@
 # WARLOCK 🔐🧙
-A Simple Strong Passoword Generator 💪
+A Simple Strong Password Generator 💪
 <img src="https://cdn.discordapp.com/attachments/874271657760542720/1044610130446135296/warlock.png">
 ## Usage
 ``` shell
