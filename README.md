@@ -1,6 +1,6 @@
 # WARLOCK 🔐🧙
 A Simple Strong Passoword Generator 💪
-#### <img src="https://cdn.discordapp.com/attachments/874271657760542720/1044610130446135296/warlock.png">
+<img src="https://cdn.discordapp.com/attachments/874271657760542720/1044610130446135296/warlock.png" size='50%'>
 ## Usage
 ``` shell
 python warlock.py -h
