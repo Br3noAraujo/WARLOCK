@@ -1,27 +1,27 @@
 # WARLOCK 🔐🧙
 A Simple Strong Password Generator 💪
-<img src="https://cdn.discordapp.com/attachments/874271657760542720/1044610130446135296/warlock.png">
+<img src="https://i.imgur.com/G3HYe1Y.png">
 ## Usage
 ``` shell
 python warlock.py -h
 ```
-<img src="https://cdn.discordapp.com/attachments/874271657760542720/1044965401378963546/Captura_de_tela_20221123_101721.png">
+<img src="https://i.imgur.com/KaXC5U5.png">
 
 ## Examples
 ``` shell
 python warlock.py
 ```
-<img src="https://cdn.discordapp.com/attachments/874271657760542720/1044965400439439411/Captura_de_tela_2022-11-23_101523.png">
+<img src="https://i.imgur.com/8HyljAI.png">
 
 ``` shell
 python warlock.py 45
 ```
-<img src="https://cdn.discordapp.com/attachments/874271657760542720/1044965400762392666/Captura_de_tela_20221123_101559.png">
+<img src="https://i.imgur.com/P0mYz3Q.png">
 
 ``` shell
 python warlock.py --leet
 ```
-<img src='https://cdn.discordapp.com/attachments/874271657760542720/1044966762334126120/Captura_de_tela_20221123_102414.png'>
+<img src='https://i.imgur.com/QTrrOHk.png'>
 
 ####  BUY ME ONE COFFEE ☕ 
  - ***BTC*** bc1ql7hl88xzc70vtz6vamy8su7hjhegqcduwzr7577
