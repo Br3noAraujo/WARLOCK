@@ -1,2 +1,2 @@
-colorama
-random_word
+colorama>=0.4.6
+random-word>=1.0.11
